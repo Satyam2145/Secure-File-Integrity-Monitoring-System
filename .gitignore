@@ -1,0 +1,21 @@
+# Maven target directory
+target/
+
+# Compiled Java class files
+*.class
+com/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
