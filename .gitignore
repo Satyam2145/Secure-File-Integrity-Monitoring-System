@@ -3,7 +3,7 @@ target/
 
 # Compiled Java class files
 *.class
-com/
+/com/
 
 # IDE files
 .idea/
@@ -19,3 +19,7 @@ com/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Local database
+hashes.txt
+
